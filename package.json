@@ -1,6 +1,6 @@
 {
   "name": "mobi-plugin-top-gap",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "description": "Set top gaps between block elements.",
   "main": "index.scss",
   "scripts": {
